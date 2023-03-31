@@ -5,7 +5,7 @@
 
 Name:           rust-%{crate}
 Version:        1.6.1
-Release:        1
+Release:        2
 Summary:        'Small vector' optimization: store up to a small number of items on the stack
 
 # Upstream license specification: MIT/Apache-2.0
