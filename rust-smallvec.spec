@@ -4,8 +4,8 @@
 %global crate smallvec
 
 Name:           rust-%{crate}
-Version:        1.6.1
-Release:        2
+Version:        1.15.2
+Release:        1
 Summary:        'Small vector' optimization: store up to a small number of items on the stack
 
 # Upstream license specification: MIT/Apache-2.0
